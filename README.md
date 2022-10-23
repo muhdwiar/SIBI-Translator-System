@@ -45,6 +45,8 @@ This system is built using Python version 3.8.6. The camera used to take images 
 - <b>How-to-Use Menu Interface</b>
 <img src="images/cara_penggunaan.png" alt="Logo" width="430" height="255">
 - <b>Translator Menu Interface</b>
+https://user-images.githubusercontent.com/46621608/197374570-a673415c-a937-4ab0-bbdd-14bd71faf8e5.mp4
+
 
 
 ## Testing
