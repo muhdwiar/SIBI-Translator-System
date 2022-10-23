@@ -41,9 +41,9 @@ This system is built using Python version 3.8.6. The camera used to take images 
 </p>
 
 - <b>Main Menu Interfaces</b>
-<img src="images/menu_utama.png" alt="Logo" width="430" height="255">
+<img src="images/menu_utama.png" alt="main" width="430" height="255">
 - <b>How-to-Use Menu Interface</b>
-<img src="images/cara_penggunaan.png" alt="Logo" width="430" height="255">
+<img src="images/cara_penggunaan.png" alt="how_to_use">
 - <b>Translator Menu Interface</b>
 
 
@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/46621608/197375059-7f3a9beb-cfab-4859-
 The system built can only detect static motion. So the letters J and Z are not tested, because they are sign languages with dynamic movements. The test was conducted on 3 male students and 3 female students. The test results are entered into the confusion matrix table to find accuracy, precision, and recall on the system. The test results are as follows:
 </p>
 
-<img src="images/testing.png" alt="Logo" width="520" height="236">
+<img src="images/testing.png" alt="testing">
 
 ## Team Member
 - Muhamad Dwi Arifianto
