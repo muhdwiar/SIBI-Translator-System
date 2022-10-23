@@ -62,6 +62,7 @@ The system built can only detect static motion. So the letters J and Z are not t
 <img src="images/testing.png" alt="testing">
 
 ## Team Member
-- Muhamad Dwi Arifianto
+- Muhamad Dwi Arifianto - [LinkedIn](https://www.linkedin.com/in/muhamad-dwi-arifianto-b76147238)
 - Muhammad Ilham
-- Sholikhatul Amalia
+- Sholikhatul Amalia - [LinkedIn](https://www.linkedin.com/in/sholikhatul-amalia)
+
